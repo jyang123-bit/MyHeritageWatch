@@ -5,7 +5,6 @@ var basemap= L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Data by <a href="http://badanwarisanmalaysia.org">BadanWarisanMalaysia</a>'
     }).addTo(map);
 
-var myURL = JQuery('script[src$="leaf-demo.js"]').attr('src').replace('leaf-demo.js','')
 
 var BWMIcon = L.icon({
      iconUrl: 'https://secure.gravatar.com/blavatar/44dd01fd31b85067e765c7c370648c49?s=200&amp;ts=1574683208',
