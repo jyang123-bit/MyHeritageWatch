@@ -3,7 +3,7 @@
 -This is an interactive map project created for The Heritage of Malaysia Trust  
 
 
-![example of map](https://github.com/jyang123-bit/myheritagewatch/blob/master/js/Map.PNG)
+![example map](https://github.com/jyang123-bit/myheritagewatch/blob/master/js/Map.PNG)
 
 
 Built with 
@@ -13,4 +13,4 @@ Built with
 - [x] [Leaftlet.markercluster](https://github.com/Leaflet/Leaflet.markercluster) plugin 
 
 
-### Full Map can be view at https://github.com/jyang123-bit/myheritagewatch
+### Full Map can be view at https://jyang123-bit.github.io/myheritagewatch/
