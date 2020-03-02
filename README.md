@@ -9,8 +9,14 @@ This is an interactive map project created for The Heritage of Malaysia Trust
 Built with 
 ----
 - [x] Leaflet 0.7.3 JavaScript 
-- [x] JSON data 
 - [x] [Leaftlet.markercluster 0.4](https://github.com/Leaflet/Leaflet.markercluster) plugin 
+- [x] JSON 
+
+Featured
+----
+`OpenStreetMap`        `customPopup`        
+
+`markerClusters`         `L.control.scale`
 
 
 ### Full Map can be view at https://jyang123-bit.github.io/myheritagewatch/
