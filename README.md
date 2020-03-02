@@ -1,4 +1,4 @@
-# Make the City Heritage Observable 
+# Make the City Heritage observable 
 
 This is an interactive map project created for The Heritage of Malaysia Trust  
 
