@@ -18,5 +18,9 @@ Featured
 
 `markerClusters`         `L.control.scale`
 
+To be adding to
+----
+- [ ] Search feature
+- [ ] Animated route with D3
 
 ### Full Map can be view in [here](https://jyang123-bit.github.io/myheritagewatch).
