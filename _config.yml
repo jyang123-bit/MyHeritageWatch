@@ -1,15 +1,5 @@
 remote_theme: fongandrew/hydeout
 
-# Setup
-title:            Jing Yuh
-tagline:          'Website
-description:      'My first website'
-url:              https://jyang123-bit.github.io/MyHeritageWatch/
-
-author:
-  name:           'Jing Yuh'
-  url:            https://github.com/jyang123-bit
-
 paginate:         5
 
 sidebar_home_link:  true
