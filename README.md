@@ -3,7 +3,7 @@
 This is an interactive map project created for The Heritage of Malaysia Trust  
 
 
-![Preview](https://github.com/jyang123-bit/MyHeritageWatch/blob/master/OpenStreetMap.gif)
+![Preview](https://github.com/jyang123-bit/MyHeritageWatch/blob/master/images/OpenStreetMap.gif)
 
 
 Built with 
