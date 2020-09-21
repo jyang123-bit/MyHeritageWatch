@@ -27,6 +27,15 @@ markers= [
     "lng":101.4218116
   },
   {
+    "name": "Masjid Diraja Sultan Alaeddin",
+    "year":"Year 1899",
+    "url":"https://www.visitselangor.com/masjid-sultan-alaeddin/",
+    "image":"https://www.visitselangor.com/wp-content/uploads/masjid-sultan-alaeddin.jpg",
+    "description":"Masjid Sultan Alaeddin was gazetted as an Ancient Monument and Historical Site under the Antiquities Act 1976 in 1980 and registered as a ‘Warisan’ (Heritage) under the National Heritage Act 2005 in 2008.",
+    "lat":2.8633,
+    "lng":101.4398
+  },
+  {
     "name":"Kota Raja Fire and Rescue Station",
     "year":"Year 1890",
     "url":"http://selangorfirefightergallery.blogspot.com/p/history.html",
