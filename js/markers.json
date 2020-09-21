@@ -19,7 +19,7 @@ markers= [
   },
   {
     "name": "Makam Sultan Abdul Samad (Royal Mausoleum)",
-    "year":"Year 1899",
+    "year":"",
     "url":"https://www.visitselangor.com/makam-sultan-abdul-samad/",
     "image":"https://www.visitselangor.com/wp-content/uploads/makam-sultan-abdul-samad.jpg",
     "description":"Makam Sultan Abdul Samad is the final resting place of Sultan Abdul Samad, the fourth Sultan of Selangor who ruled from 1859 to 1898. It is a heritage building and the Selangor royal family’s burial grounds since 1886.",
@@ -28,13 +28,31 @@ markers= [
   },
   {
     "name": "Masjid Diraja Sultan Alaeddin",
-    "year":"Year 1899",
+    "year":"",
     "url":"https://www.visitselangor.com/masjid-sultan-alaeddin/",
     "image":"https://www.visitselangor.com/wp-content/uploads/masjid-sultan-alaeddin.jpg",
     "description":"Masjid Sultan Alaeddin was gazetted as an Ancient Monument and Historical Site under the Antiquities Act 1976 in 1980 and registered as a ‘Warisan’ (Heritage) under the National Heritage Act 2005 in 2008.",
     "lat":2.8633,
     "lng":101.4398
   },
+  {
+    "name": "Bukit Melawati",
+    "year":"Year 1794",
+    "url":"https://www.visitselangor.com/bukit-melawati/",
+    "image":"https://s3media.freemalaysiatoday.com/wp-content/uploads/2020/09/Melawati-Hill-pic.png",
+    "description":"The fort was built in the late 1700s by Sultan Ibrahim of Selangor to protect against Dutch invaders. The Altingsburgh Lighthouse was built by the Dutch in 1794.",
+    "lat":3.34095,
+    "lng":101.149195
+  }, 
+  {
+    "name": "Morib Beach",
+    "year":"",
+    "url":"https://cj.my/114519/remembering-when-british-indian-army-landed-in-morib/",
+    "image":"https://cj.my/wp-content/uploads/2019/09/moribbeach.jpg",
+    "description":"In 1945 during World War II, the British army came to Malaya via Morib. This area became the British’s stronghold of the Japanese assault which signified the end of World War II in this region.",
+    "lat":2.7495,
+    "lng":101.4426
+  }, 
   {
     "name":"Kota Raja Fire and Rescue Station",
     "year":"Year 1890",
