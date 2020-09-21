@@ -9,6 +9,15 @@ markers= [
     "lng":101.450427
   },
   {
+    "name": "Istana Bandar Jugra",
+    "year":"Year 1900",
+    "url":"https://www.visitselangor.com/istana-bandar-jugra/",
+    "image":"https://www.visitselangor.com/wp-content/uploads/istana-bandar-jugra.jpg",
+    "description":"It was built in 1899. In 1980, Istana Bandar Jugra was designated a historical monument and site under the Antiquities Act 1976. Also known as Istana Alaeddin or Alaeddin Palace, the building was constructed using high-quality cengal timber and marble. Its design is largely Islamic, mainly of Indian and Middle-Eastern origin.",
+    "lat":2.51370,
+    "lng":101.26282
+  },
+  {
     "name":"Kota Raja Fire and Rescue Station",
     "year":"Year 1890",
     "url":"http://selangorfirefightergallery.blogspot.com/p/history.html",
