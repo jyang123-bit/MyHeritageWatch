@@ -1,4 +1,13 @@
 markers= [
+   {
+    "name": "Hattle's Castle",
+    "year":"Year 1920",
+    "url":"https://www.visitselangor.com/hatters-castle/",
+    "image":"https://sdpecogardens.wixsite.com/hatters-castle/set/2fbf4b5c-2779-4917-9433-a0213cefc010?pgid=keymtvj9-76a6dd7a-8790-40b0-a69a-a3edd76a8d3c",
+    "description":"Hatter’s Castle is a cottage bungalow that used to be the home of Pulau Carey‘s plantation manager back in the 1920s. The cottage bungalow’s design was so well received at the time that it became the model for many hill station and plantation bungalows erected during the colonial era.",
+    "lat":2.89089365105,
+    "lng":101.353291706
+  },
   {
     "name": "Masjid Diraja Sultan Sulaiman",
     "year":"Year 1932",
